@@ -1,10 +1,11 @@
 ## CaeFrassini
 
-Desenvolvedor Junior
+Desenvolvedor junior 
+
 Olá! Sou Caetano de Paula Frassini, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na Universidade Paulista (UNIP). Ainda estou aprendendo a programar 
 
 💼 Projeto em Destaque
-REVAMP: "REVAMP" é uma marca de roupa streetwear que esta sendo desenvolvida. 
+REVAMP: É uma marca de roupa streetwear que esta sendo desenvolvida. 
 
 💻 Tecnologias e Ferramentas
 <p align="left">
